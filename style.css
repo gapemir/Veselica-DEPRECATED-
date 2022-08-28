@@ -1,0 +1,81 @@
+.jurcki {
+    height: 50px;
+    width: 100%;
+    background-color: transparent; 
+}
+.tiles_1 {
+    float: left;
+
+    width: 50%;
+    background-color: transparent;
+}
+.tiles_2 {
+    float: right;
+
+    width: 50%;
+    background-color: transparent;
+}
+.PicInBut{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+.button{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    width: 100%;
+    background-color: transparent;
+}
+.green{
+    width: 100%;
+    background-color: rgb(27, 255, 27);
+}
+.red{
+    width: 100%;
+    background-color: rgb(255, 56, 56);
+}
+.PicInBut1{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+.PicInBut2{
+    position:absolute;
+    top: 40%;
+    left: 0%;
+    width: 100%;
+    height: 25%;
+    background-color: transparent;
+}
+.PicInBut3{
+    position:absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+footer {
+    /*background-color: rgb(160, 204, 255);*/
+    display: table-row;
+    border-top-color: black;
+    border-top-width: 20px;
+
+}
+@media only screen and (max-width: 1440px) {
+    .tiles_1{width:100%;}
+    .tiles_2{width:100%;}
+}
+html, body { /*za footer */
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: table;
+}
+body{
+    background-color: rgb(110, 160, 204);
+}
