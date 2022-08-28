@@ -4,7 +4,7 @@ Do nje se lahko dostopa tudi preko računalnika,vendar je njena primarna uporaba
 <a href="http://unc.rf.gd/">Spletna aplikacija</a><br>
 <pre>Računalniška različica:                                           Telefonska različica:</pre><br>
 <img src="https://cdn.discordapp.com/attachments/976867332339142777/1013563906112901150/unknown.png" style="width:500px"><tab>
-<img src="https://cdn.discordapp.com/attachments/976867332339142777/1013564913433706506/unknown.png" style="height:301px">
+<img src="https://cdn.discordapp.com/attachments/976867332339142777/1013564913433706506/unknown.png" style="height:301px"></tab>
 
 Zgoraj označene številke od 1 do 3 pomenijo vsaka svoj "jurček", ploščice z dodanim H spredaj pa pomenijo "sprejemno postajo" za vsak svoj jurček.
 <h3>Primer:</h3>
