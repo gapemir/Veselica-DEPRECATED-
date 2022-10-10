@@ -1,6 +1,6 @@
 # Veselica
 Spletna aplikacija za lažjo logistiko veselice Pgd Unec.<br>
-Do nje se lahko dostopa tudi preko računalnika,vendar je njena primarna uporaba preko mobilnega telefona.<br>
+Do nje se lahko dostopa tudi preko računalnika, vendar je njena primarna uporaba preko mobilnega telefona.<br>
 <a href="http://unc.rf.gd/">Spletna aplikacija</a><br>
 <pre>Računalniška različica:                                           Telefonska različica:</pre><br>
 <img src="https://cdn.discordapp.com/attachments/976867332339142777/1013563906112901150/unknown.png" style="width:500px"><tab>
