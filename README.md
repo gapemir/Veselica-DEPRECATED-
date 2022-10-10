@@ -17,6 +17,5 @@ Oseba zadolžena za oskrbo jurčka to vidi, kljub temu da ima spletno aplikacija
 <img src="https://cdn.discordapp.com/attachments/976867332339142777/1013568935632851017/unknown.png" style="height:400px;"><tab>
 <img src="https://cdn.discordapp.com/attachments/976867332339142777/1013569096715092008/unknown.png" style="height:400px;">
 
-Spletna aplikacija je bila prvič uporabljena za svoje namene 27.8.2022 na Uncu. Zaradi zastonj gostovanja so zaradi preveč prometa aplikacija suspendirana, vendar je po pol ure spet zaživela pri drugemu gostitelju in delovala varno in zanesljivo do jutra.
-
-Pred glavno uporabo te aplikacije me prosim kontaktirajte. Prav tako pa tudi če imate kakršnakoli vprašanja.
+Spletna aplikacija je bila prvič uporabljena za svoje namene 27. 8. 2022 na Uncu. Zaradi zastonj gostovanja so zaradi preveč prometa aplikacijo suspendirali, vendar je po pol ure spet zaživela pri drugemu gostitelju in delovala zanesljivo do jutra.
+  
