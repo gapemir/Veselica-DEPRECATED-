@@ -1,3 +1,5 @@
+*DEPRECATED* bom objavil novo verzijo, ko se matura konca(izdelek za maturo)
+
 # Veselica
 Spletna aplikacija za lažjo logistiko veselice Pgd Unec.<br>
 Do nje se lahko dostopa tudi preko računalnika, vendar je njena primarna uporaba preko mobilnega telefona.<br>
